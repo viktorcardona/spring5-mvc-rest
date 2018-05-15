@@ -18,3 +18,11 @@ CategoryController
 VendorController
 
     Uses @RestController (spring 4.0) more suitable for a Rest Service
+
+Swagger:
+
+    Swagger: support for Restful Documentation
+    Swagger Library: pom.xml: springfox-swagger2 (2.7.0), springfox-swagger-ui (2.7.0)
+    Swagger Config: guru.springfamework.config.SwaggerConfig 
+    Swagger Doc: http://localhost:8080/v2/api-docs
+    
