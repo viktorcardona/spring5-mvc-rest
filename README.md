@@ -25,4 +25,5 @@ Swagger:
     Swagger Library: pom.xml: springfox-swagger2 (2.7.0), springfox-swagger-ui (2.7.0)
     Swagger Config: guru.springfamework.config.SwaggerConfig 
     Swagger Doc: http://localhost:8080/v2/api-docs
+    Swagger-UI: http://localhost:8080/swagger-ui.html
     
