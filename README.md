@@ -24,6 +24,9 @@ Swagger:
     Swagger: support for Restful Documentation for each API
     Swagger Library: pom.xml: springfox-swagger2 (2.7.0), springfox-swagger-ui (2.7.0)
     Swagger Config: guru.springfamework.config.SwaggerConfig 
-    Swagger Doc: http://localhost:8080/v2/api-docs
-    Swagger-UI: http://localhost:8080/swagger-ui.html
+    Swagger Doc: in JSON format: http://localhost:8080/v2/api-docs
+        The published JSON could be copy and paste in the online Swagger editor: https://editor.swagger.io/ and see the HTML format generated
+        There is also a desktop version of the Swagger editor
+        The swagger web site also gives the choice of generating the code server and client in multiple languages  
+    Swagger-UI: Doc in HTML format: http://localhost:8080/swagger-ui.html
     
