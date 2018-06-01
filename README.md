@@ -66,4 +66,14 @@ XML Media Type:
     
     However, the client now needs to specify the Accept header, this makes to udate the unit tests:
         .accept(MediaType.APPLICATION_JSON)
+   
+JAXB:
+
+    XJC Binding Compiler:
+    http://www.mojohaus.org/jaxb2-maven-plugin/Documentation/v2.2/example_xjc_basic.html
+    Maven Plugin: jaxb2-maven-plugin
+        Generates the Java Source Code from the XML Schemas.
+        We shiuld specify the source folder of XSD and the package name
+        Check the example in rest-model module.
+    
     
